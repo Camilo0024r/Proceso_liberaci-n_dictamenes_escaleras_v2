@@ -4,5 +4,18 @@
   "HelpLink": null,
   "Color": null,
   "OriginalIconFileName": null,
-  "Arguments": []
+  "Arguments": [
+    {
+      "Name": "tokenAPI_NS",
+      "DisplayName": "tokenAPI_NS",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "eyJraWQiOiJjLjU4NDU2MzEuMjAyNC0wMS0yOF8wMC0xMS0zOCIsInR5cCI6IkpXVCIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIzOzEzIiwiYXVkIjpbIkE5NzVCREE2LTgyRTAtNDk3My1BNjAwLTA3OTEyRDA3NzVFMzs1ODQ1NjMxIiwiNjNiZWIxYzY2YjNkYjU3ZjMzMzIxMDQ2ZmRlMzc4NWM3Y2I4ZWY1ZTNkNzEwNDUzNWI1MWVjNWRiYTg4MzBiYyJdLCJzY29wZSI6WyJyZXN0bGV0cyIsInJlc3Rfd2Vic2VydmljZXMiXSwiaXNzIjoiaHR0cHM6Ly9zeXN0ZW0ubmV0c3VpdGUuY29tIiwib2l0IjoxNzA4NjEzNzU2LCJleHAiOjE3MDg2MTczNTYsImlhdCI6MTcwODYxMzc1NiwianRpIjoiNTg0NTYzMS5hLWEuODcwMWMzYjctNjhjNS00MTE0LTg5ODgtZThlYjMxNGFjZWQzXzE3MDg2MTM3NTY0MDYuMTcwODYxMzc1NjQwNiJ9.YNPnNEkHnw5PIrX_tBrzUUr4Y0kkaAIStL3_AuFg8f7OLB3zW1WwL8PbouqCzYYiHAMsi-wj9vwVbGlstzS66PGK2VUtTb8IiEim5L6XoyTiy7rDnemien4SO6GsEaLAI6r2lpJ7Ysbir9crBPIs9Obdl5zbKC8JX4Ef2auu2wM0MWPPM74lcqLIr_Aax12s6gEbRSuNNGd-KOCs8GLcu4Lycud-b9QdKejOGCVFd9bIq4pDVA3BZQ9kt1V2oxseDKXqvjY40YlT3aY4pS_RDAHf4RgiDKHz-j43-60vacbxs_5-FpiorYfq18pt3UChyL-oU9usuFdDZfExR5834aqVxUoaAbl2kKdOeFj0tiGKJ5VUFLwoxGGdB0TS1LkeI80LAJ59dYtsIAsxZlfayJH1-CDFjzCJwSp1N4Q1QIMuzQkPATte7lVhGlrcojPR_7xZ0QO7CQUYD0GsPzBktAfnjTSd29LLRzMdclxTBcGdr7QMnKBBPwPelqtW57cTEEDGefjvxNa0Y40T2-2YtA92fPHpQLM9f-SQN-j6GXN_ZZ5V8tmEBHNTJvDAFbCRsACdexBvtpK6v67qb2uLMRnlF4jMxdexSrqAJEtQ-bmQxOCgzo8ddTh-218-Tt_JqzN91zETkkLrsSMsPzYAivCRpaC7NOYNDjiOV9pToZo",
+      "Widget": null,
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
 }
